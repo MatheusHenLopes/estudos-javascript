@@ -44,6 +44,7 @@ if (iniciarCompra === "Sim") {
 else {
 
     alert("A caravana foi embora");
+    
     console.log("A caravana foi embora, seu saldo continua em " + moedasDisponiveis);
 
 }
