@@ -6,7 +6,7 @@ let ordemCompra = 0
 
 const valoresCaravana = [85, 67, 100, 200, 30, 50];
 
-let iniciarCompra = prompt("Você encontrou uma caravana, deseja comprar os itens que precisa? O primeiro item custa " + valoresCaravana[0]);
+let iniciarCompra = prompt("Você encontrou uma caravana, deseja comprar os itens que precisa? O primeiro item custa " + valoresCaravana[0] + " e você possui 500 moedas");
 
 if (iniciarCompra === "Sim") {
 

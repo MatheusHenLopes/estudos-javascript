@@ -43,7 +43,7 @@ function testando () {
 
 testando();
 
-// essas estruturas não apresentam escopo em seu bloco, mistua=rando if, for, while no escopo global.
+// essas estruturas não apresentam escopo em seu bloco, misturando if, for, while no escopo global.
 
 if(true) {
 

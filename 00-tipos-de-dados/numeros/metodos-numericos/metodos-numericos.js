@@ -2,7 +2,7 @@
 
 O objeto number contém métodos úteis para trabalhar com números
 
-- a maioria dos tipos de daos também tem um objeto pai;
+- a maioria dos tipos de dados também tem um objeto pai;
 - String, object e array;
 
 */
