@@ -57,7 +57,7 @@ const saudacao = function(nome) {
 
 saudacao("TcheTche")
 
-// Função anoônima 2: Callback
+// Função anônima 2: Callback
 // função executada como argumento
 
 function operacao(a, b, callback) {
