@@ -24,4 +24,4 @@ Atualmente, reúne conteúdos relacionados a:
 
 Este repositório está em constante atualização conforme avanço nos estudos.
 
-Atualmente estou aprofundando meus conhecimentos em funções. Os próximos conteúdos incluem objetos, manipulação do DOM e outros conceitos da linguagem.
+Atualmente estou estudando sobre objetos e aplicação do this, pensando em manipular DOM para aplicação em projetos próximos.
