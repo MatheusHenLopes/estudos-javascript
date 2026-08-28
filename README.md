@@ -18,6 +18,7 @@ Atualmente, reúne conteúdos relacionados a:
 - Estruturas de repetição
 - Arrays
 - Funções
+- Objetos
 - Exercícios de lógica de programação
 
 ## Desenvolvimento
