@@ -9,7 +9,7 @@ const joui = {
 
 const kian = {
     vida: 60,
-    dano: 7,
+    dano: 12,
     ataque: "Lâmina do medo",
     estocadaLamina: function() {
         return "Kian realiza uma investida contra Joui e acerta um golpe com sua " + this.ataque + " causando " + this.dano + " pontos de dano";
@@ -40,7 +40,6 @@ function combateRodadas (jouiVida, jouiDano, kianVida, kianDano, contadorRodadas
         if (jouiVida <= 0) {
             console.log("Kian matou joui e finalizou a calamidade, está tudo acabado...")
         }
-        
     }
 }
 
