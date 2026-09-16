@@ -34,4 +34,4 @@ const nomes = ["Chris", "Vitor", "Flor"];
 
 const texto = nomes.join("\n");
 
-console.log(texto)
+console.log(texto) 
