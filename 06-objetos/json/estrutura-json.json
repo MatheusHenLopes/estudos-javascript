@@ -1,0 +1,11 @@
+
+{
+    "nome": "Matheus",
+    "idade": 18,
+    "esta-estudando": true,
+    "Jogos": ["Pokemon", "Overwatch", "Valorant"],
+    "detalhes-v aga": {
+        "cargo": "Estágio",
+        "empresa": " Nubank"
+    }
+} 
